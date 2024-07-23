@@ -607,7 +607,7 @@
             align-items: center;
         }
         .products_container {
-            grid-template-columns: (3, 142px);
+            grid-template-columns: repeat(3, 142px);
             justify-content: center;
         }
     }

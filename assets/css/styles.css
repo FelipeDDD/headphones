@@ -217,12 +217,11 @@
 
     /* Active Link */
     .active-link {
-        background-color: var(--white-color);
+        background: var(--white-color);
         color: transparent;
         -webkit-background-clip: text;
         background-clip: text;
-
-    }
+      }
 
     /* HOME */
     .home_img {
